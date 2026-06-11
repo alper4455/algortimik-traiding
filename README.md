@@ -1,0 +1,2 @@
+# algortimik-traiding
+traiding both
